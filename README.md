@@ -1,4 +1,6 @@
-### Hi there 👋🤗
+### Hi there! I'm Julie. Just graduated from a Data Science bootcamp and eager to dive into new projects! 👋🤗
+
+- 📫 **Reach Me At:** [Click here.](https://www.linkedin.com/in/julieleung6/)
 
 <!--
 **julieleung6/julieleung6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
