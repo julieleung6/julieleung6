@@ -2,7 +2,8 @@
 
 Just graduated from a Data Science bootcamp and eager to dive into new projects! 
 
-- 🤝 **Let's be friends:** [Click here](https://www.linkedin.com/in/julieleung6/)
+- 🌱 I’m looking to learn how to deploy models using Streamlit. 
+- 🤝 Let's be friends: [Click here](https://www.linkedin.com/in/julieleung6/)
 
 <!--
 **julieleung6/julieleung6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
