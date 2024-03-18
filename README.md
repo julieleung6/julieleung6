@@ -2,7 +2,7 @@
 
 Just graduated from a Data Science bootcamp and eager to dive into new projects! 
 
-- 👯 I’m looking to collaborate on model deployment.
+- 👯 I’m looking to collaborate on model deployment projects.
 - 🤝 Let's be friends: [Click here](https://www.linkedin.com/in/julieleung6/)
 
 <!--
