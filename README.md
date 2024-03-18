@@ -2,7 +2,7 @@
 
 Just graduated from a Data Science bootcamp and eager to dive into new projects! 
 
-- 🌱 I’m looking to learn how to deploy models using Streamlit. 
+- 👯 I’m looking to collaborate on model deployment.
 - 🤝 Let's be friends: [Click here](https://www.linkedin.com/in/julieleung6/)
 
 <!--
