@@ -1,9 +1,8 @@
 ### Hi there! I'm Julie 👋🤗
 
-Just graduated from a Data Science bootcamp and eager to dive into new projects! 
-
-- 👯 I’m looking to collaborate on model deployment projects.
-- 🤝 Let's be friends: [Click here](https://www.linkedin.com/in/julieleung6/)
+- 👯 I’m looking to collaborate on fun, model deployment projects.
+- 🌱 I'm currently learning to balance building a SLM, tending to a garden, and mastering the art of urban cycling.
+- 📫 How to reach me: [Click here](https://www.linkedin.com/in/julieleung6/)
 
 <!--
 **julieleung6/julieleung6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
