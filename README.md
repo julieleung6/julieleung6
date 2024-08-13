@@ -1,7 +1,7 @@
 ### Hi there! I'm Julie 👋🤗
 
 - 👯 I’m looking to collaborate on fun, model deployment projects.
-- 🌱 I'm currently learning to balance building a SLM, tending to a garden, and mastering the art of urban cycling.
+- 🌱 I'm currently learning to balance building a SLM, tending to a garden, and calmly navigating urban cycling.
 - 📫 How to reach me: [Click here](https://www.linkedin.com/in/julieleung6/)
 
 <!--
