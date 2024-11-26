@@ -1,7 +1,7 @@
 ### Hi there! I'm Julie 👋🤗
 
 - 👯 I’m looking to collaborate on model deployment projects.
-- 🌱 I'm currently working on building an LLM, tending a garden, and gracefully dodging traffic on my bike.
+- 🌱 I'm currently immersing myself in the world of finance, wrangling with data sets, navigating busy streets on my bike, and attempting to keep my plants thriving—all in a day's work!
 - 📫 How to reach me: [Click here](https://www.linkedin.com/in/julieleung6/)
 
 <!--
