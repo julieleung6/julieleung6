@@ -1,7 +1,11 @@
-### Hi there! I'm Julie 👋🤗
+### Hi there! I'm Julie! 👋🤗
 
-- 👯 I’m looking to collaborate on model deployment projects.
-- 🌱 I'm currently immersing myself in the world of finance, wrangling with data sets, navigating busy streets on my bike, and keeping my plants thriving!
+I love exploring how things work—whether through data, design, or hands-on projects. While studying math, I also delved into fabrication, learning how to build in CAD and bring ideas to life. I'm always looking for ways to broaden my perspective and pick up new hobbies, from biking to caring for plants.
+
+Now, I’m diving into data science—experimenting with models, deploying projects, and blending analytical thinking with creativity. When I'm not working with data, you’ll probably find me biking through the city or exploring my next creative project.
+
+- 🚴‍♀️📊💡 Always open to collaborations—especially on model deployment projects!
+
 - 📫 How to reach me: [Click here](https://www.linkedin.com/in/julieleung6/)
 
 <!--
