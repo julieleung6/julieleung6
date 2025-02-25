@@ -6,7 +6,7 @@ Now, I’m diving into data science—experimenting with models, deploying proje
 
 - 🚴‍♀️📊💡 Always open to collaborations—especially on model deployment projects!
 
-- 📫 How to reach me: [Click here](https://www.linkedin.com/in/julieleung6/)
+- 📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/julieleung6/)
 
 <!--
 **julieleung6/julieleung6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
